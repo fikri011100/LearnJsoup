@@ -7,7 +7,7 @@
     android:background="@android:color/white"
     tools:ignore="ContentDescription">
 
-    <!--<ImageView
+    <ImageView
         android:id="@+id/iv_thumb"
         android:layout_width="match_parent"
         android:layout_height="320dp"
@@ -39,7 +39,7 @@
         android:textStyle="bold"
         android:paddingTop="4dp"
         android:textSize="18sp"
-        tools:text="2017" />-->
+        tools:text="2017" />
 
     <ImageView
         android:id="@+id/iv_thumb"
